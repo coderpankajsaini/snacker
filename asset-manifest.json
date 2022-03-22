@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snacker/static/css/main.073c9b0a.css",
+    "main.js": "/snacker/static/js/main.d391972f.js",
+    "static/js/787.03deccb5.chunk.js": "/snacker/static/js/787.03deccb5.chunk.js",
+    "index.html": "/snacker/index.html",
+    "main.073c9b0a.css.map": "/snacker/static/css/main.073c9b0a.css.map",
+    "main.d391972f.js.map": "/snacker/static/js/main.d391972f.js.map",
+    "787.03deccb5.chunk.js.map": "/snacker/static/js/787.03deccb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d391972f.js"
+  ]
+}
